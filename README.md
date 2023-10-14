@@ -1,5 +1,5 @@
 # Convolutional Network in CPP 
-### A convolutional neural network implementation from scratch built in C++.
+A convolutional neural network implementation from scratch built in C++.
 
 ## Required 
 - gcc / clang
