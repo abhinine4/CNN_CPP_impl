@@ -19,3 +19,6 @@
 #include "Optimizer/AdaGrad.h"
 
 #include "Callback.h"
+#include "Callback/VerboseCallback.h"
+
+#include "NeuralNet.h"
