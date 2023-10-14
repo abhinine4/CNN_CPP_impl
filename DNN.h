@@ -9,3 +9,13 @@
 #include "Layer/FullyConnected.h"
 #include "Layer/Pooling.h"
 
+#include "Output.h"
+#include "Output/MSE.h"
+#include "Output/CrossEntropy.h"
+
+#include "Optimizer.h"
+#include "Optimizer/SGD.h"
+#include "Optimizer/Momentum.h"
+#include "Optimizer/AdaGrad.h"
+
+#include "Callback.h"
